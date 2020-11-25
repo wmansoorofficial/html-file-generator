@@ -1,0 +1,21 @@
+{
+  "name": "html-file-generator",
+  "version": "1.0.4",
+  "description": "A simple javascript module to create html file content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html-file",
+    "html-generator",
+    "html-report"
+  ],
+  "author": "waqar-mansoor",
+  "license": "ISC",
+  "dependencies": {
+    "create-html": "^4.1.0",
+    "lodash": "^4.17.20",
+    "node-html-parser": "^2.0.0"
+  }
+}
